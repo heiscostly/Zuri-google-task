@@ -13,6 +13,11 @@ nav ul li{
     list-style-type: none;
 }
 
+li:hover{
+    /* list-style-type: ; */
+    text-decoration: underline;
+}
+
 body{
     background: #202124;
     margin: 0;
